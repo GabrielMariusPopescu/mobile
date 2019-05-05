@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\inetpub\wwwroot\xPlatAuction</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/AutoMapper.dll">
+      <publishTime>11/23/2016 23:51:42</publishTime>
+    </File>
+    <File Include="bin/de/Microsoft.Azure.Mobile.Server.Authentication.resources.dll">
+      <publishTime>03/15/2017 11:12:10</publishTime>
+    </File>
+    <File Include="bin/de/Microsoft.Azure.Mobile.Server.Entity.resources.dll">
+      <publishTime>03/15/2017 11:12:18</publishTime>
+    </File>
+    <File Include="bin/de/Microsoft.Azure.Mobile.Server.Notifications.resources.dll">
+      <publishTime>03/15/2017 11:12:30</publishTime>
+    </File>
+    <File Include="bin/de/Microsoft.Azure.Mobile.Server.resources.dll">
+      <publishTime>12/11/2018 23:12:56</publishTime>
+    </File>
+    <File Include="bin/de/Microsoft.Azure.Mobile.Server.Tables.resources.dll">
+      <publishTime>03/15/2017 11:12:46</publishTime>
+    </File>
+    <File Include="bin/de/Microsoft.Data.Edm.resources.dll">
+      <publishTime>11/07/2016 03:01:18</publishTime>
+    </File>
+    <File Include="bin/de/Microsoft.Data.OData.resources.dll">
+      <publishTime>11/07/2016 02:58:36</publishTime>
+    </File>
+    <File Include="bin/de/System.Spatial.resources.dll">
+      <publishTime>11/07/2016 02:58:58</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.dll">
+      <publishTime>03/02/2015 09:32:26</publishTime>
+    </File>
+    <File Include="bin/EntityFramework.SqlServer.dll">
+      <publishTime>03/02/2015 09:32:26</publishTime>
+    </File>
+    <File Include="bin/es/Microsoft.Azure.Mobile.Server.Authentication.resources.dll">
+      <publishTime>03/15/2017 11:12:10</publishTime>
+    </File>
+    <File Include="bin/es/Microsoft.Azure.Mobile.Server.Entity.resources.dll">
+      <publishTime>03/15/2017 11:12:18</publishTime>
+    </File>
+    <File Include="bin/es/Microsoft.Azure.Mobile.Server.Notifications.resources.dll">
+      <publishTime>03/15/2017 11:12:30</publishTime>
+    </File>
+    <File Include="bin/es/Microsoft.Azure.Mobile.Server.resources.dll">
+      <publishTime>12/11/2018 23:13:02</publishTime>
+    </File>
+    <File Include="bin/es/Microsoft.Azure.Mobile.Server.Tables.resources.dll">
+      <publishTime>03/15/2017 11:12:46</publishTime>
+    </File>
+    <File Include="bin/es/Microsoft.Data.Edm.resources.dll">
+      <publishTime>11/07/2016 03:01:18</publishTime>
+    </File>
+    <File Include="bin/es/Microsoft.Data.OData.resources.dll">
+      <publishTime>11/07/2016 02:58:36</publishTime>
+    </File>
+    <File Include="bin/es/System.Spatial.resources.dll">
+      <publishTime>11/07/2016 02:58:58</publishTime>
+    </File>
+    <File Include="bin/fr/Microsoft.Azure.Mobile.Server.Authentication.resources.dll">
+      <publishTime>03/15/2017 11:12:10</publishTime>
+    </File>
+    <File Include="bin/fr/Microsoft.Azure.Mobile.Server.Entity.resources.dll">
+      <publishTime>03/15/2017 11:12:18</publishTime>
+    </File>
+    <File Include="bin/fr/Microsoft.Azure.Mobile.Server.Notifications.resources.dll">
+      <publishTime>03/15/2017 11:12:30</publishTime>
+    </File>
+    <File Include="bin/fr/Microsoft.Azure.Mobile.Server.resources.dll">
+      <publishTime>12/11/2018 23:13:08</publishTime>
+    </File>
+    <File Include="bin/fr/Microsoft.Azure.Mobile.Server.Tables.resources.dll">
+      <publishTime>03/15/2017 11:12:46</publishTime>
+    </File>
+    <File Include="bin/fr/Microsoft.Data.Edm.resources.dll">
+      <publishTime>11/07/2016 03:01:18</publishTime>
+    </File>
+    <File Include="bin/fr/Microsoft.Data.OData.resources.dll">
+      <publishTime>11/07/2016 02:58:36</publishTime>
+    </File>
+    <File Include="bin/fr/System.Spatial.resources.dll">
+      <publishTime>11/07/2016 02:58:58</publishTime>
+    </File>
+    <File Include="bin/it/Microsoft.Azure.Mobile.Server.Authentication.resources.dll">
+      <publishTime>03/15/2017 11:12:10</publishTime>
+    </File>
+    <File Include="bin/it/Microsoft.Azure.Mobile.Server.Entity.resources.dll">
+      <publishTime>03/15/2017 11:12:18</publishTime>
+    </File>
+    <File Include="bin/it/Microsoft.Azure.Mobile.Server.Notifications.resources.dll">
+      <publishTime>03/15/2017 11:12:30</publishTime>
+    </File>
+    <File Include="bin/it/Microsoft.Azure.Mobile.Server.resources.dll">
+      <publishTime>12/11/2018 23:13:24</publishTime>
+    </File>
+    <File Include="bin/it/Microsoft.Azure.Mobile.Server.Tables.resources.dll">
+      <publishTime>03/15/2017 11:12:46</publishTime>
+    </File>
+    <File Include="bin/it/Microsoft.Data.Edm.resources.dll">
+      <publishTime>11/07/2016 03:01:18</publishTime>
+    </File>
+    <File Include="bin/it/Microsoft.Data.OData.resources.dll">
+      <publishTime>11/07/2016 02:58:36</publishTime>
+    </File>
+    <File Include="bin/it/System.Spatial.resources.dll">
+      <publishTime>11/07/2016 02:58:58</publishTime>
+    </File>
+    <File Include="bin/ja/Microsoft.Azure.Mobile.Server.Authentication.resources.dll">
+      <publishTime>03/15/2017 11:12:10</publishTime>
+    </File>
+    <File Include="bin/ja/Microsoft.Azure.Mobile.Server.Entity.resources.dll">
+      <publishTime>03/15/2017 11:12:18</publishTime>
+    </File>
+    <File Include="bin/ja/Microsoft.Azure.Mobile.Server.Notifications.resources.dll">
+      <publishTime>03/15/2017 11:12:30</publishTime>
+    </File>
+    <File Include="bin/ja/Microsoft.Azure.Mobile.Server.resources.dll">
+      <publishTime>12/11/2018 23:13:02</publishTime>
+    </File>
+    <File Include="bin/ja/Microsoft.Azure.Mobile.Server.Tables.resources.dll">
+      <publishTime>03/15/2017 11:12:46</publishTime>
+    </File>
+    <File Include="bin/ja/Microsoft.Data.Edm.resources.dll">
+      <publishTime>11/07/2016 03:01:18</publishTime>
+    </File>
+    <File Include="bin/ja/Microsoft.Data.OData.resources.dll">
+      <publishTime>11/07/2016 02:58:36</publishTime>
+    </File>
+    <File Include="bin/ja/System.Spatial.resources.dll">
+      <publishTime>11/07/2016 02:58:58</publishTime>
+    </File>
+    <File Include="bin/ko/Microsoft.Azure.Mobile.Server.Authentication.resources.dll">
+      <publishTime>03/15/2017 11:12:10</publishTime>
+    </File>
+    <File Include="bin/ko/Microsoft.Azure.Mobile.Server.Entity.resources.dll">
+      <publishTime>03/15/2017 11:12:18</publishTime>
+    </File>
+    <File Include="bin/ko/Microsoft.Azure.Mobile.Server.Notifications.resources.dll">
+      <publishTime>03/15/2017 11:12:30</publishTime>
+    </File>
+    <File Include="bin/ko/Microsoft.Azure.Mobile.Server.resources.dll">
+      <publishTime>12/11/2018 23:13:02</publishTime>
+    </File>
+    <File Include="bin/ko/Microsoft.Azure.Mobile.Server.Tables.resources.dll">
+      <publishTime>03/15/2017 11:12:46</publishTime>
+    </File>
+    <File Include="bin/ko/Microsoft.Data.Edm.resources.dll">
+      <publishTime>11/07/2016 03:01:18</publishTime>
+    </File>
+    <File Include="bin/ko/Microsoft.Data.OData.resources.dll">
+      <publishTime>11/07/2016 02:58:36</publishTime>
+    </File>
+    <File Include="bin/ko/System.Spatial.resources.dll">
+      <publishTime>11/07/2016 02:58:58</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Azure.Mobile.Server.Authentication.dll">
+      <publishTime>03/15/2017 11:12:10</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Azure.Mobile.Server.CrossDomain.dll">
+      <publishTime>03/15/2017 11:12:14</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Azure.Mobile.Server.dll">
+      <publishTime>12/11/2018 23:12:56</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Azure.Mobile.Server.Entity.dll">
+      <publishTime>03/15/2017 11:12:18</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Azure.Mobile.Server.Home.dll">
+      <publishTime>03/15/2017 11:12:22</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Azure.Mobile.Server.Notifications.dll">
+      <publishTime>03/15/2017 11:12:30</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Azure.Mobile.Server.Quickstart.dll">
+      <publishTime>03/15/2017 11:12:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Azure.Mobile.Server.Swagger.dll">
+      <publishTime>12/11/2018 23:13:02</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Azure.Mobile.Server.Tables.dll">
+      <publishTime>03/15/2017 11:12:46</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Azure.NotificationHubs.dll">
+      <publishTime>08/09/2016 00:10:36</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>12/13/2016 02:10:32</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Data.Edm.dll">
+      <publishTime>11/07/2016 03:01:18</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Data.OData.dll">
+      <publishTime>11/07/2016 02:58:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.dll">
+      <publishTime>02/13/2015 13:16:30</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Host.SystemWeb.dll">
+      <publishTime>02/13/2015 13:16:34</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Owin.Security.dll">
+      <publishTime>02/13/2015 13:16:36</publishTime>
+    </File>
+    <File Include="bin/Microsoft.WindowsAzure.Configuration.dll">
+      <publishTime>10/25/2016 10:48:08</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>06/13/2016 23:06:14</publishTime>
+    </File>
+    <File Include="bin/Owin.dll">
+      <publishTime>11/13/2012 12:19:34</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe.config">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.rsp">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.rsp">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.AppContext.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.StackTrace.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.Primitives.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe.config">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.rsp">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>06/27/2016 14:50:24</publishTime>
+    </File>
+    <File Include="bin/ru/Microsoft.Azure.Mobile.Server.Authentication.resources.dll">
+      <publishTime>03/15/2017 11:12:10</publishTime>
+    </File>
+    <File Include="bin/ru/Microsoft.Azure.Mobile.Server.Entity.resources.dll">
+      <publishTime>03/15/2017 11:12:18</publishTime>
+    </File>
+    <File Include="bin/ru/Microsoft.Azure.Mobile.Server.Notifications.resources.dll">
+      <publishTime>03/15/2017 11:12:30</publishTime>
+    </File>
+    <File Include="bin/ru/Microsoft.Azure.Mobile.Server.resources.dll">
+      <publishTime>12/11/2018 23:13:24</publishTime>
+    </File>
+    <File Include="bin/ru/Microsoft.Azure.Mobile.Server.Tables.resources.dll">
+      <publishTime>03/15/2017 11:12:46</publishTime>
+    </File>
+    <File Include="bin/ru/Microsoft.Data.Edm.resources.dll">
+      <publishTime>11/07/2016 03:01:18</publishTime>
+    </File>
+    <File Include="bin/ru/Microsoft.Data.OData.resources.dll">
+      <publishTime>11/07/2016 02:58:36</publishTime>
+    </File>
+    <File Include="bin/ru/System.Spatial.resources.dll">
+      <publishTime>11/07/2016 02:58:58</publishTime>
+    </File>
+    <File Include="bin/Swashbuckle.Core.dll">
+      <publishTime>08/11/2016 10:56:58</publishTime>
+    </File>
+    <File Include="bin/System.IdentityModel.Tokens.Jwt.dll">
+      <publishTime>08/26/2016 12:08:14</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>01/28/2015 04:02:42</publishTime>
+    </File>
+    <File Include="bin/System.Spatial.dll">
+      <publishTime>11/07/2016 02:58:56</publishTime>
+    </File>
+    <File Include="bin/System.Web.Cors.dll">
+      <publishTime>01/28/2015 04:01:46</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.Cors.dll">
+      <publishTime>01/28/2015 04:03:04</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>01/28/2015 04:02:54</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.OData.dll">
+      <publishTime>08/21/2015 00:18:24</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.Owin.dll">
+      <publishTime>01/28/2015 04:03:16</publishTime>
+    </File>
+    <File Include="bin/xPlatAuction.Backend.dll">
+      <publishTime>05/05/2019 23:24:26</publishTime>
+    </File>
+    <File Include="bin/xPlatAuction.Backend.pdb">
+      <publishTime>05/05/2019 23:24:26</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/Microsoft.Azure.Mobile.Server.Authentication.resources.dll">
+      <publishTime>03/15/2017 11:12:10</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/Microsoft.Azure.Mobile.Server.Entity.resources.dll">
+      <publishTime>03/15/2017 11:12:18</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/Microsoft.Azure.Mobile.Server.Notifications.resources.dll">
+      <publishTime>03/15/2017 11:12:30</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/Microsoft.Azure.Mobile.Server.resources.dll">
+      <publishTime>12/11/2018 23:12:56</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/Microsoft.Azure.Mobile.Server.Tables.resources.dll">
+      <publishTime>03/15/2017 11:12:46</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/Microsoft.Data.Edm.resources.dll">
+      <publishTime>11/07/2016 03:01:18</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/Microsoft.Data.OData.resources.dll">
+      <publishTime>11/07/2016 02:58:36</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/System.Spatial.resources.dll">
+      <publishTime>11/07/2016 02:58:58</publishTime>
+    </File>
+    <File Include="bin/zh-Hant/Microsoft.Azure.Mobile.Server.Authentication.resources.dll">
+      <publishTime>03/15/2017 11:12:10</publishTime>
+    </File>
+    <File Include="bin/zh-Hant/Microsoft.Azure.Mobile.Server.Entity.resources.dll">
+      <publishTime>03/15/2017 11:12:18</publishTime>
+    </File>
+    <File Include="bin/zh-Hant/Microsoft.Azure.Mobile.Server.Notifications.resources.dll">
+      <publishTime>03/15/2017 11:12:30</publishTime>
+    </File>
+    <File Include="bin/zh-Hant/Microsoft.Azure.Mobile.Server.resources.dll">
+      <publishTime>12/11/2018 23:12:44</publishTime>
+    </File>
+    <File Include="bin/zh-Hant/Microsoft.Azure.Mobile.Server.Tables.resources.dll">
+      <publishTime>03/15/2017 11:12:46</publishTime>
+    </File>
+    <File Include="bin/zh-Hant/Microsoft.Data.Edm.resources.dll">
+      <publishTime>11/07/2016 03:01:18</publishTime>
+    </File>
+    <File Include="bin/zh-Hant/Microsoft.Data.OData.resources.dll">
+      <publishTime>11/07/2016 02:58:36</publishTime>
+    </File>
+    <File Include="bin/zh-Hant/System.Spatial.resources.dll">
+      <publishTime>11/07/2016 02:58:58</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>05/05/2019 23:24:33</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>05/05/2019 23:24:28</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
