@@ -1,14 +1,14 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
-             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-             xmlns:local="clr-namespace:xPlatAuction"
-             x:Class="xPlatAuction.MainPage">
+﻿<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+			 xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+			 x:Class="xPlatAuction.MainPage">
 
-    <StackLayout>
-        <!-- Place new controls here -->
-        <Label Text="Welcome to first mobile app!" 
-           HorizontalOptions="Center"
-           VerticalOptions="CenterAndExpand" />
-    </StackLayout>
+  <StackLayout
+		HorizontalOptions="Center" 
+		VerticalOptions="CenterAndExpand">
+	<Label x:Name="Title" Text="Auction Mobile App" 
+		   HorizontalOptions="Center"
+		   VerticalOptions="CenterAndExpand" />
+	<Button Text="Load an Item" Clicked="Button_Clicked"></Button>
+  </StackLayout>
 
 </ContentPage>
