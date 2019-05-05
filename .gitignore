@@ -61,3 +61,4 @@ dkms.conf
 /.vs
 /xPlatAuction/xPlatAuction.UWP/bin/x86/Debug
 /xPlatAuction/xPlatAuction.UWP/obj
+*.mdf
