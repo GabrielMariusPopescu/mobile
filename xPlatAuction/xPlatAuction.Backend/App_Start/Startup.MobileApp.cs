@@ -1,7 +1,6 @@
 ﻿using Microsoft.Azure.Mobile.Server.Authentication;
 using Microsoft.Azure.Mobile.Server.Config;
 using Owin;
-using System;
 using System.Configuration;
 using System.Data.Entity;
 using System.Web.Http;
@@ -47,7 +46,7 @@ namespace xPlatAuction.Backend
     {
         protected override void Seed(MobileServiceContext context)
         {
-            throw new NotImplementedException();
+            context.SaveChangesAsync();
         }
     }
 }

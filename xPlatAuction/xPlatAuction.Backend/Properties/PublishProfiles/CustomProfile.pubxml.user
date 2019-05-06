@@ -24,17 +24,23 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <File Include="bin/de/Microsoft.Azure.Mobile.Server.resources.dll">
       <publishTime>12/11/2018 23:12:56</publishTime>
     </File>
+    <File Include="bin/de/Microsoft.Azure.Mobile.Server.Storage.resources.dll">
+      <publishTime>12/11/2018 23:12:56</publishTime>
+    </File>
     <File Include="bin/de/Microsoft.Azure.Mobile.Server.Tables.resources.dll">
-      <publishTime>03/15/2017 11:12:46</publishTime>
+      <publishTime>12/11/2018 23:13:24</publishTime>
     </File>
     <File Include="bin/de/Microsoft.Data.Edm.resources.dll">
-      <publishTime>11/07/2016 03:01:18</publishTime>
+      <publishTime>08/13/2018 23:22:12</publishTime>
     </File>
     <File Include="bin/de/Microsoft.Data.OData.resources.dll">
-      <publishTime>11/07/2016 02:58:36</publishTime>
+      <publishTime>08/13/2018 23:22:24</publishTime>
+    </File>
+    <File Include="bin/de/Microsoft.Data.Services.Client.resources.dll">
+      <publishTime>08/13/2018 23:22:58</publishTime>
     </File>
     <File Include="bin/de/System.Spatial.resources.dll">
-      <publishTime>11/07/2016 02:58:58</publishTime>
+      <publishTime>08/13/2018 23:22:38</publishTime>
     </File>
     <File Include="bin/EntityFramework.dll">
       <publishTime>03/02/2015 09:32:26</publishTime>
@@ -54,17 +60,23 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <File Include="bin/es/Microsoft.Azure.Mobile.Server.resources.dll">
       <publishTime>12/11/2018 23:13:02</publishTime>
     </File>
+    <File Include="bin/es/Microsoft.Azure.Mobile.Server.Storage.resources.dll">
+      <publishTime>12/11/2018 23:12:56</publishTime>
+    </File>
     <File Include="bin/es/Microsoft.Azure.Mobile.Server.Tables.resources.dll">
-      <publishTime>03/15/2017 11:12:46</publishTime>
+      <publishTime>12/11/2018 23:12:44</publishTime>
     </File>
     <File Include="bin/es/Microsoft.Data.Edm.resources.dll">
-      <publishTime>11/07/2016 03:01:18</publishTime>
+      <publishTime>08/13/2018 23:22:12</publishTime>
     </File>
     <File Include="bin/es/Microsoft.Data.OData.resources.dll">
-      <publishTime>11/07/2016 02:58:36</publishTime>
+      <publishTime>08/13/2018 23:22:24</publishTime>
+    </File>
+    <File Include="bin/es/Microsoft.Data.Services.Client.resources.dll">
+      <publishTime>08/13/2018 23:22:58</publishTime>
     </File>
     <File Include="bin/es/System.Spatial.resources.dll">
-      <publishTime>11/07/2016 02:58:58</publishTime>
+      <publishTime>08/13/2018 23:22:38</publishTime>
     </File>
     <File Include="bin/fr/Microsoft.Azure.Mobile.Server.Authentication.resources.dll">
       <publishTime>03/15/2017 11:12:10</publishTime>
@@ -78,17 +90,23 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <File Include="bin/fr/Microsoft.Azure.Mobile.Server.resources.dll">
       <publishTime>12/11/2018 23:13:08</publishTime>
     </File>
+    <File Include="bin/fr/Microsoft.Azure.Mobile.Server.Storage.resources.dll">
+      <publishTime>12/11/2018 23:12:56</publishTime>
+    </File>
     <File Include="bin/fr/Microsoft.Azure.Mobile.Server.Tables.resources.dll">
-      <publishTime>03/15/2017 11:12:46</publishTime>
+      <publishTime>12/11/2018 23:12:44</publishTime>
     </File>
     <File Include="bin/fr/Microsoft.Data.Edm.resources.dll">
-      <publishTime>11/07/2016 03:01:18</publishTime>
+      <publishTime>08/13/2018 23:22:12</publishTime>
     </File>
     <File Include="bin/fr/Microsoft.Data.OData.resources.dll">
-      <publishTime>11/07/2016 02:58:36</publishTime>
+      <publishTime>08/13/2018 23:22:24</publishTime>
+    </File>
+    <File Include="bin/fr/Microsoft.Data.Services.Client.resources.dll">
+      <publishTime>08/13/2018 23:22:58</publishTime>
     </File>
     <File Include="bin/fr/System.Spatial.resources.dll">
-      <publishTime>11/07/2016 02:58:58</publishTime>
+      <publishTime>08/13/2018 23:22:38</publishTime>
     </File>
     <File Include="bin/it/Microsoft.Azure.Mobile.Server.Authentication.resources.dll">
       <publishTime>03/15/2017 11:12:10</publishTime>
@@ -102,17 +120,23 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <File Include="bin/it/Microsoft.Azure.Mobile.Server.resources.dll">
       <publishTime>12/11/2018 23:13:24</publishTime>
     </File>
+    <File Include="bin/it/Microsoft.Azure.Mobile.Server.Storage.resources.dll">
+      <publishTime>12/11/2018 23:12:44</publishTime>
+    </File>
     <File Include="bin/it/Microsoft.Azure.Mobile.Server.Tables.resources.dll">
-      <publishTime>03/15/2017 11:12:46</publishTime>
+      <publishTime>12/11/2018 23:13:02</publishTime>
     </File>
     <File Include="bin/it/Microsoft.Data.Edm.resources.dll">
-      <publishTime>11/07/2016 03:01:18</publishTime>
+      <publishTime>08/13/2018 23:22:12</publishTime>
     </File>
     <File Include="bin/it/Microsoft.Data.OData.resources.dll">
-      <publishTime>11/07/2016 02:58:36</publishTime>
+      <publishTime>08/13/2018 23:22:24</publishTime>
+    </File>
+    <File Include="bin/it/Microsoft.Data.Services.Client.resources.dll">
+      <publishTime>08/13/2018 23:22:58</publishTime>
     </File>
     <File Include="bin/it/System.Spatial.resources.dll">
-      <publishTime>11/07/2016 02:58:58</publishTime>
+      <publishTime>08/13/2018 23:22:38</publishTime>
     </File>
     <File Include="bin/ja/Microsoft.Azure.Mobile.Server.Authentication.resources.dll">
       <publishTime>03/15/2017 11:12:10</publishTime>
@@ -126,17 +150,23 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <File Include="bin/ja/Microsoft.Azure.Mobile.Server.resources.dll">
       <publishTime>12/11/2018 23:13:02</publishTime>
     </File>
+    <File Include="bin/ja/Microsoft.Azure.Mobile.Server.Storage.resources.dll">
+      <publishTime>12/11/2018 23:12:56</publishTime>
+    </File>
     <File Include="bin/ja/Microsoft.Azure.Mobile.Server.Tables.resources.dll">
-      <publishTime>03/15/2017 11:12:46</publishTime>
+      <publishTime>12/11/2018 23:12:44</publishTime>
     </File>
     <File Include="bin/ja/Microsoft.Data.Edm.resources.dll">
-      <publishTime>11/07/2016 03:01:18</publishTime>
+      <publishTime>08/13/2018 23:22:12</publishTime>
     </File>
     <File Include="bin/ja/Microsoft.Data.OData.resources.dll">
-      <publishTime>11/07/2016 02:58:36</publishTime>
+      <publishTime>08/13/2018 23:22:24</publishTime>
+    </File>
+    <File Include="bin/ja/Microsoft.Data.Services.Client.resources.dll">
+      <publishTime>08/13/2018 23:22:58</publishTime>
     </File>
     <File Include="bin/ja/System.Spatial.resources.dll">
-      <publishTime>11/07/2016 02:58:58</publishTime>
+      <publishTime>08/13/2018 23:22:38</publishTime>
     </File>
     <File Include="bin/ko/Microsoft.Azure.Mobile.Server.Authentication.resources.dll">
       <publishTime>03/15/2017 11:12:10</publishTime>
@@ -150,17 +180,26 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <File Include="bin/ko/Microsoft.Azure.Mobile.Server.resources.dll">
       <publishTime>12/11/2018 23:13:02</publishTime>
     </File>
+    <File Include="bin/ko/Microsoft.Azure.Mobile.Server.Storage.resources.dll">
+      <publishTime>12/11/2018 23:12:56</publishTime>
+    </File>
     <File Include="bin/ko/Microsoft.Azure.Mobile.Server.Tables.resources.dll">
-      <publishTime>03/15/2017 11:12:46</publishTime>
+      <publishTime>12/11/2018 23:12:56</publishTime>
     </File>
     <File Include="bin/ko/Microsoft.Data.Edm.resources.dll">
-      <publishTime>11/07/2016 03:01:18</publishTime>
+      <publishTime>08/13/2018 23:22:12</publishTime>
     </File>
     <File Include="bin/ko/Microsoft.Data.OData.resources.dll">
-      <publishTime>11/07/2016 02:58:36</publishTime>
+      <publishTime>08/13/2018 23:22:24</publishTime>
+    </File>
+    <File Include="bin/ko/Microsoft.Data.Services.Client.resources.dll">
+      <publishTime>08/13/2018 23:22:58</publishTime>
     </File>
     <File Include="bin/ko/System.Spatial.resources.dll">
-      <publishTime>11/07/2016 02:58:58</publishTime>
+      <publishTime>08/13/2018 23:22:38</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Azure.KeyVault.Core.dll">
+      <publishTime>12/07/2016 09:37:44</publishTime>
     </File>
     <File Include="bin/Microsoft.Azure.Mobile.Server.Authentication.dll">
       <publishTime>03/15/2017 11:12:10</publishTime>
@@ -183,11 +222,14 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <File Include="bin/Microsoft.Azure.Mobile.Server.Quickstart.dll">
       <publishTime>03/15/2017 11:12:34</publishTime>
     </File>
+    <File Include="bin/Microsoft.Azure.Mobile.Server.Storage.dll">
+      <publishTime>12/11/2018 23:13:02</publishTime>
+    </File>
     <File Include="bin/Microsoft.Azure.Mobile.Server.Swagger.dll">
       <publishTime>12/11/2018 23:13:02</publishTime>
     </File>
     <File Include="bin/Microsoft.Azure.Mobile.Server.Tables.dll">
-      <publishTime>03/15/2017 11:12:46</publishTime>
+      <publishTime>12/11/2018 23:12:56</publishTime>
     </File>
     <File Include="bin/Microsoft.Azure.NotificationHubs.dll">
       <publishTime>08/09/2016 00:10:36</publishTime>
@@ -196,10 +238,13 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>12/13/2016 02:10:32</publishTime>
     </File>
     <File Include="bin/Microsoft.Data.Edm.dll">
-      <publishTime>11/07/2016 03:01:18</publishTime>
+      <publishTime>08/13/2018 23:22:10</publishTime>
     </File>
     <File Include="bin/Microsoft.Data.OData.dll">
-      <publishTime>11/07/2016 02:58:34</publishTime>
+      <publishTime>08/13/2018 23:22:22</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Data.Services.Client.dll">
+      <publishTime>08/13/2018 23:22:58</publishTime>
     </File>
     <File Include="bin/Microsoft.Owin.dll">
       <publishTime>02/13/2015 13:16:30</publishTime>
@@ -212,6 +257,12 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     </File>
     <File Include="bin/Microsoft.WindowsAzure.Configuration.dll">
       <publishTime>10/25/2016 10:48:08</publishTime>
+    </File>
+    <File Include="bin/Microsoft.WindowsAzure.Storage.dll">
+      <publishTime>12/21/2016 19:56:52</publishTime>
+    </File>
+    <File Include="bin/Microsoft.WindowsAzure.Storage.pdb">
+      <publishTime>12/21/2016 19:56:52</publishTime>
     </File>
     <File Include="bin/Newtonsoft.Json.dll">
       <publishTime>06/13/2016 23:06:14</publishTime>
@@ -309,17 +360,23 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <File Include="bin/ru/Microsoft.Azure.Mobile.Server.resources.dll">
       <publishTime>12/11/2018 23:13:24</publishTime>
     </File>
+    <File Include="bin/ru/Microsoft.Azure.Mobile.Server.Storage.resources.dll">
+      <publishTime>12/11/2018 23:12:56</publishTime>
+    </File>
     <File Include="bin/ru/Microsoft.Azure.Mobile.Server.Tables.resources.dll">
-      <publishTime>03/15/2017 11:12:46</publishTime>
+      <publishTime>12/11/2018 23:12:44</publishTime>
     </File>
     <File Include="bin/ru/Microsoft.Data.Edm.resources.dll">
-      <publishTime>11/07/2016 03:01:18</publishTime>
+      <publishTime>08/13/2018 23:22:12</publishTime>
     </File>
     <File Include="bin/ru/Microsoft.Data.OData.resources.dll">
-      <publishTime>11/07/2016 02:58:36</publishTime>
+      <publishTime>08/13/2018 23:22:24</publishTime>
+    </File>
+    <File Include="bin/ru/Microsoft.Data.Services.Client.resources.dll">
+      <publishTime>08/13/2018 23:22:58</publishTime>
     </File>
     <File Include="bin/ru/System.Spatial.resources.dll">
-      <publishTime>11/07/2016 02:58:58</publishTime>
+      <publishTime>08/13/2018 23:22:38</publishTime>
     </File>
     <File Include="bin/Swashbuckle.Core.dll">
       <publishTime>08/11/2016 10:56:58</publishTime>
@@ -331,7 +388,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>01/28/2015 04:02:42</publishTime>
     </File>
     <File Include="bin/System.Spatial.dll">
-      <publishTime>11/07/2016 02:58:56</publishTime>
+      <publishTime>08/13/2018 23:22:38</publishTime>
     </File>
     <File Include="bin/System.Web.Cors.dll">
       <publishTime>01/28/2015 04:01:46</publishTime>
@@ -349,10 +406,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>01/28/2015 04:03:16</publishTime>
     </File>
     <File Include="bin/xPlatAuction.Backend.dll">
-      <publishTime>05/05/2019 23:24:26</publishTime>
+      <publishTime>05/06/2019 22:49:59</publishTime>
     </File>
     <File Include="bin/xPlatAuction.Backend.pdb">
-      <publishTime>05/05/2019 23:24:26</publishTime>
+      <publishTime>05/06/2019 22:49:59</publishTime>
     </File>
     <File Include="bin/zh-Hans/Microsoft.Azure.Mobile.Server.Authentication.resources.dll">
       <publishTime>03/15/2017 11:12:10</publishTime>
@@ -366,17 +423,23 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <File Include="bin/zh-Hans/Microsoft.Azure.Mobile.Server.resources.dll">
       <publishTime>12/11/2018 23:12:56</publishTime>
     </File>
+    <File Include="bin/zh-Hans/Microsoft.Azure.Mobile.Server.Storage.resources.dll">
+      <publishTime>12/11/2018 23:12:56</publishTime>
+    </File>
     <File Include="bin/zh-Hans/Microsoft.Azure.Mobile.Server.Tables.resources.dll">
-      <publishTime>03/15/2017 11:12:46</publishTime>
+      <publishTime>12/11/2018 23:12:56</publishTime>
     </File>
     <File Include="bin/zh-Hans/Microsoft.Data.Edm.resources.dll">
-      <publishTime>11/07/2016 03:01:18</publishTime>
+      <publishTime>08/13/2018 23:22:12</publishTime>
     </File>
     <File Include="bin/zh-Hans/Microsoft.Data.OData.resources.dll">
-      <publishTime>11/07/2016 02:58:36</publishTime>
+      <publishTime>08/13/2018 23:22:24</publishTime>
+    </File>
+    <File Include="bin/zh-Hans/Microsoft.Data.Services.Client.resources.dll">
+      <publishTime>08/13/2018 23:22:58</publishTime>
     </File>
     <File Include="bin/zh-Hans/System.Spatial.resources.dll">
-      <publishTime>11/07/2016 02:58:58</publishTime>
+      <publishTime>08/13/2018 23:22:38</publishTime>
     </File>
     <File Include="bin/zh-Hant/Microsoft.Azure.Mobile.Server.Authentication.resources.dll">
       <publishTime>03/15/2017 11:12:10</publishTime>
@@ -390,23 +453,29 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <File Include="bin/zh-Hant/Microsoft.Azure.Mobile.Server.resources.dll">
       <publishTime>12/11/2018 23:12:44</publishTime>
     </File>
+    <File Include="bin/zh-Hant/Microsoft.Azure.Mobile.Server.Storage.resources.dll">
+      <publishTime>12/11/2018 23:13:02</publishTime>
+    </File>
     <File Include="bin/zh-Hant/Microsoft.Azure.Mobile.Server.Tables.resources.dll">
-      <publishTime>03/15/2017 11:12:46</publishTime>
+      <publishTime>12/11/2018 23:12:56</publishTime>
     </File>
     <File Include="bin/zh-Hant/Microsoft.Data.Edm.resources.dll">
-      <publishTime>11/07/2016 03:01:18</publishTime>
+      <publishTime>08/13/2018 23:22:12</publishTime>
     </File>
     <File Include="bin/zh-Hant/Microsoft.Data.OData.resources.dll">
-      <publishTime>11/07/2016 02:58:36</publishTime>
+      <publishTime>08/13/2018 23:22:24</publishTime>
+    </File>
+    <File Include="bin/zh-Hant/Microsoft.Data.Services.Client.resources.dll">
+      <publishTime>08/13/2018 23:22:58</publishTime>
     </File>
     <File Include="bin/zh-Hant/System.Spatial.resources.dll">
-      <publishTime>11/07/2016 02:58:58</publishTime>
+      <publishTime>08/13/2018 23:22:38</publishTime>
     </File>
     <File Include="PrecompiledApp.config">
-      <publishTime>05/05/2019 23:24:33</publishTime>
+      <publishTime>05/06/2019 22:50:03</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>05/05/2019 23:24:28</publishTime>
+      <publishTime>05/06/2019 22:50:01</publishTime>
     </File>
   </ItemGroup>
 </Project>

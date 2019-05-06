@@ -25,7 +25,7 @@ namespace xPlatAuction.Backend.Models
         public DbSet<DataObjects.Auction> Auctions { get; set; }
         public DbSet<DataObjects.Bid> Bids { get; set; }
         public DbSet<AuctionItemDbEntity> AuctionItems { get; set; }
-        
+
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
             modelBuilder.Conventions.Add(

@@ -1,9 +1,9 @@
-﻿using System.Linq;
+﻿using Microsoft.Azure.Mobile.Server;
+using System.Linq;
 using System.Threading.Tasks;
 using System.Web.Http;
 using System.Web.Http.Controllers;
 using System.Web.Http.OData;
-using Microsoft.Azure.Mobile.Server;
 using xPlatAuction.Backend.DataObjects;
 using xPlatAuction.Backend.Models;
 
@@ -14,7 +14,7 @@ namespace xPlatAuction.Backend.Controllers
         protected override void Initialize(HttpControllerContext controllerContext)
         {
             base.Initialize(controllerContext);
-            MobileServiceContext context = new MobileServiceContext();
+            var context = new MobileServiceContext();
             DomainManager = new EntityDomainManager<Auction>(context, Request);
         }
 
@@ -39,7 +39,7 @@ namespace xPlatAuction.Backend.Controllers
         // POST tables/Auction
         public async Task<IHttpActionResult> PostAuction(Auction item)
         {
-            Auction current = await InsertAsync(item);
+            var current = await InsertAsync(item);
             return CreatedAtRoute("Tables", new { id = current.Id }, current);
         }
 

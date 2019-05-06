@@ -159,11 +159,6 @@
       <Version>6.2.7</Version>
     </PackageReference>
   </ItemGroup>
-  <ItemGroup>
-    <Reference Include="Microsoft.Azure.Mobile.Client">
-      <HintPath>..\..\..\..\..\.nuget\packages\microsoft.azure.mobile.client\4.1.1\lib\netstandard1.4\Microsoft.Azure.Mobile.Client.dll</HintPath>
-    </Reference>
-  </ItemGroup>
   <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">
     <VisualStudioVersion>14.0</VisualStudioVersion>
   </PropertyGroup>
