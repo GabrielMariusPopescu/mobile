@@ -2,7 +2,6 @@ using Microsoft.Azure.Mobile.Server.Tables;
 using System.Data.Entity;
 using System.Data.Entity.ModelConfiguration.Conventions;
 using System.Linq;
-using xPlatAuction.Backend.DataObjects;
 
 namespace xPlatAuction.Backend.Models
 {
@@ -23,8 +22,10 @@ namespace xPlatAuction.Backend.Models
         {
         }
 
-        public DbSet<TodoItem> TodoItems { get; set; }
-
+        public DbSet<DataObjects.Auction> Auctions { get; set; }
+        public DbSet<DataObjects.Bid> Bids { get; set; }
+        public DbSet<AuctionItemDbEntity> AuctionItems { get; set; }
+        
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
             modelBuilder.Conventions.Add(

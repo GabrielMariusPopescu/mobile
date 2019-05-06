@@ -14,7 +14,7 @@
 		         VerticalAlignment="Center" 
 		         HorizontalAlignment="Center"/>
 	  <Button Content="Load an Item" 
-		        Click="BtnLoadItem_OnClick" />
+		        Click="BtnLoadItem_OnClick" HorizontalAlignment="Left" VerticalAlignment="Center" RenderTransformOrigin="1.649,0.833" />
 	</StackPanel>
 
   </Grid>
