@@ -1,11 +1,9 @@
-﻿
+
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.30907.101
-MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainingRooms", "TrainingRooms\TrainingRooms.csproj", "{FF34A93C-C539-4F0C-A5D0-F7273C733C5D}"
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainingRooms", "TrainingRooms\TrainingRooms.csproj", "{976E036D-4F44-426E-AD6B-48DCB614893A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrainingRooms.Android", "TrainingRooms.Android\TrainingRooms.Android.csproj", "{C7930A59-FF26-4737-8241-4CDF25297253}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "trainingrooms.droid", "trainingrooms.droid\trainingrooms.droid.csproj", "{6D09B464-0839-4A73-8E5E-815301D5D79D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,21 +11,13 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{FF34A93C-C539-4F0C-A5D0-F7273C733C5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FF34A93C-C539-4F0C-A5D0-F7273C733C5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FF34A93C-C539-4F0C-A5D0-F7273C733C5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FF34A93C-C539-4F0C-A5D0-F7273C733C5D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C7930A59-FF26-4737-8241-4CDF25297253}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{C7930A59-FF26-4737-8241-4CDF25297253}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{C7930A59-FF26-4737-8241-4CDF25297253}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
-		{C7930A59-FF26-4737-8241-4CDF25297253}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{C7930A59-FF26-4737-8241-4CDF25297253}.Release|Any CPU.Build.0 = Release|Any CPU
-		{C7930A59-FF26-4737-8241-4CDF25297253}.Release|Any CPU.Deploy.0 = Release|Any CPU
-	EndGlobalSection
-	GlobalSection(SolutionProperties) = preSolution
-		HideSolutionNode = FALSE
-	EndGlobalSection
-	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {9A345867-E22E-4CF1-B97D-00490E5B565C}
+		{976E036D-4F44-426E-AD6B-48DCB614893A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{976E036D-4F44-426E-AD6B-48DCB614893A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{976E036D-4F44-426E-AD6B-48DCB614893A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{976E036D-4F44-426E-AD6B-48DCB614893A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D09B464-0839-4A73-8E5E-815301D5D79D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D09B464-0839-4A73-8E5E-815301D5D79D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D09B464-0839-4A73-8E5E-815301D5D79D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D09B464-0839-4A73-8E5E-815301D5D79D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
