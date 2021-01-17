@@ -68,3 +68,9 @@ dkms.conf
 /TestSetup/TestSetup/TestSetup.Android/obj
 /TestSetup/TestSetup/TestSetup.iOS/bin
 /TestSetup/TestSetup/TestSetup.iOS/obj
+/TestSetup/.vs/TestSetup/DesignTimeBuild
+/TrainingRooms/.vs/TrainingRooms/v16
+/TrainingRooms/TrainingRooms/bin/Debug/netstandard2.0
+/TrainingRooms/TrainingRooms/obj
+/TestSetup/TestSetup/TestSetup.Android/bin/Debug
+/TrainingRooms/TrainingRooms.Android/obj
