@@ -1,6 +1,6 @@
 ﻿using Android.App;
-using Android.Widget;
 using Android.OS;
+using Android.Widget;
 
 namespace trainingrooms.droid
 {
@@ -18,7 +18,7 @@ namespace trainingrooms.droid
 
             // Get our button from the layout resource,
             // and attach an event to it
-            Button button = FindViewById<Button>(Resource.Id.myButton);
+            var button = FindViewById<Button>(Resource.Id.myButton);
 
             button.Click += delegate { button.Text = $"{count++} clicks!"; };
         }

@@ -1,30 +1,13 @@
-﻿using System;
-
-namespace TrainingRooms
+﻿namespace TrainingRooms
 {
     public class TrainingRoom
     {
-        public int Id
-        {
-            get;
-            set;
-        }
+        public int Id { get; set; }
 
-        public string Name
-        {
-            get;
-            set;
-        }
-        public string Location
-        {
-            get;
-            set;
-        }
+        public string Name { get; set; }
 
-        public int NumberComputers
-        {
-            get;
-            set;
-        }
+        public string Location { get; set; }
+
+        public int NumberComputers { get; set; }
     }
 }
